@@ -1,4 +1,5 @@
 Task 2: AI Content Marketing using UGC Ads
+
 🔹 Product / Business Chosen:
 
 Local Salon – GlowUp Salon & Beauty Studio (Tirupati)
