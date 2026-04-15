@@ -1,96 +1,86 @@
-Task 2: AI Content Marketing using UGC Ads
+# Task 2: AI Content Marketing using UGC Ads
+## 🔹 Product:
 
-🔹 Product / Business Chosen:
+GlowUp Salon – Hair & Beauty Services (Tirupati)
 
-Local Salon – GlowUp Salon & Beauty Studio (Tirupati)
+## 🔹 Prompt Used:
 
-🔹 Prompt Used:
+Write 5 UGC-style ad scripts for a local salon named "GlowUp Salon" located in Tirupati.
 
-Write high-converting UGC-style ad scripts for a local salon named "GlowUp Salon & Beauty Studio" located in Tirupati.
+Requirements:
 
-Include:
+- Each ad must include:
+  Hook
+  Problem
+  Solution
+  Call-to-action
 
-3 different hooks (attention-grabbing openings)
-Short UGC ad scripts (15–30 seconds)
-Follow structure: problem → solution → result → CTA
-Make it sound like a real customer talking (not salesy)
-Add a strong but natural call-to-action
-Keep tone friendly, honest, and relatable
-Make it suitable for Instagram Reels / Ads
-🔹 Output:
-🎯 Hooks:
+- Use different hook types:
+  Emotional
+  Question
+  Shocking fact
+  Relatable situation
+  Curiosity-based
 
-• “I finally found a salon in Tirupati that actually listens…”
-• “Why is no one talking about this salon in Tirupati?”
-• “My hair was completely damaged until I tried this…”
+- Keep tone natural like a real pet owner and customer experience
+- Suitable for Instagram Reels / Shorts
+- Keep scripts short and engaging, and realistic
+## 🔹 Hooks:
 
-🎥 UGC Ad Script 1:
+1. I looked so bad before my function… until this salon saved me! 😭
+2. Are you still going to random salons and risking your hair?
+3. This one mistake is ruining your hair! 😳
+4. I finally found a salon I can trust in Tirupati…
+5. You won’t believe this transformation! 👀
 
-“I finally found a salon in Tirupati that actually listens…”
+## 🔹 Output:
 
-I used to go to random salons and always end up disappointed with my haircut. Either too short or just not what I asked for.
+### Ad 1:
+Hook: I looked so bad before my function… until this salon saved me! 😭
+Problem: My hair was completely messed up just a day before my event.
+Solution: I went to GlowUp Salon and they fixed everything perfectly with a quick styling session.
+CTA: Trust GlowUp Salon for your last-minute glow-up!
 
-Then I tried GlowUp Salon… and honestly, it was completely different. They actually understood what I wanted and gave me the perfect style.
+### Ad 2:
+Hook: Are you still going to random salons and risking your hair? 😬
+Problem: I used to try different salons and always got disappointing results.
+Solution: GlowUp Salon has professional stylists who actually understand what suits you.
+CTA: Visit GlowUp Salon and stop taking risks with your hair!
 
-My hair feels so much healthier and I’m actually confident now.
+### Ad 3:
+Hook: This one mistake is ruining your hair! 😳
+Problem: Using cheap treatments and inexperienced stylists can damage your hair badly.
+Solution: GlowUp Salon uses quality products and expert care for healthy hair.
+CTA: Switch to better hair care at GlowUp Salon today!
 
-If you’re tired of bad salon experiences, just try GlowUp once.
+### Ad 4:
+Hook: I finally found a salon I can trust in Tirupati… ❤️
+Problem: It’s so hard to find a salon that actually listens to what you want.
+Solution: At GlowUp Salon, they give personalized service and amazing results every time.
+CTA: Try GlowUp Salon once — you’ll never switch again!
 
-👉 Book your appointment now, you won’t regret it!
+### Ad 5:
+Hook: You won’t believe this transformation! 👀
+Problem: My hair looked dull and lifeless for months.
+Solution: After one session at GlowUp Salon, my hair feels fresh, shiny, and full of life.
+CTA: Book your transformation at GlowUp Salon now!
 
-🎥 UGC Ad Script 2:
+## 🔹 Platform Adaptation:
 
-“Why is no one talking about this salon in Tirupati?”
+These ads are designed for Instagram Reels, YouTube Shorts, and Facebook Ads, where short, relatable, and real-looking content performs best and drives higher engagement.
 
-I randomly visited GlowUp Salon last week and I’m still shocked by the results.
+## 🔹 Explanation:
 
-The place is super clean, the staff are really friendly, and the service feels premium but still affordable.
+I used AI (ChatGPT) to generate UGC-style ad scripts using a structured prompt system. The scripts follow a Hook → Problem → Solution → CTA format, making them highly engaging and conversion-focused. The tone is kept natural and relatable to mimic real customer experiences.
 
-I went for a hair spa and my hair has never felt this smooth before.
+## 🔹 Prompt System:
 
-Honestly, this is now my go-to salon.
+This prompt can be reused for different businesses by modifying:
 
-👉 If you're in Tirupati, you NEED to try this place!
+- Product / Business name
+- Location
+- Target audience
+- Pain points
+- Benefits
 
-🎥 UGC Ad Script 3:
-
-“My hair was completely damaged until I tried this…”
-
-My hair was dry, frizzy, and honestly unmanageable. I had tried everything.
-
-Then someone recommended GlowUp Salon, and I decided to give it a shot.
-
-After one hair spa session, I could literally feel the difference. My hair looks healthier and shinier now.
-
-I wish I had found this place earlier!
-
-👉 Don’t wait — go book your session at GlowUp Salon today!
-
-📢 CTAs:
-
-• “Book your appointment today!”
-• “Try GlowUp once and see the difference”
-• “Visit now and upgrade your look”
-
-📱 Caption (Optional):
-
-✨ Good hair days start here!
-Stop settling for average salons — experience the GlowUp difference 💇‍♀️
-📍 Tirupati
-📞 Book now!
-
-🔹 Explanation:
-
-I used AI (ChatGPT) to generate UGC-style ad scripts for a local salon. The prompt was designed to follow a proven marketing structure (problem → solution → result → CTA) and create content that feels like real customer experiences rather than traditional ads.
-
-🔹 Prompt System:
-
-This prompt structure can be reused for different products or businesses by changing:
-
-Business/product name
-Location
-Problem (pain point)
-Service or product benefit
-Target audience
-
-This makes it a scalable system for creating multiple UGC ads for different brands and platforms.
+This makes the system scalable for generating multiple UGC ad creatives for various brands.
